@@ -6,6 +6,7 @@ function App() {
 
   return (
     <>
+    <img src="../public/Logo.png" alt="" srcset="" />
   
     </>
   )
